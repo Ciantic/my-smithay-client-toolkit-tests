@@ -1,4 +1,4 @@
-# Smithay Toolkit + Glutin examples
+# Smithay Toolkit + Glow examples
 
 Most of the code is vibed.
 
