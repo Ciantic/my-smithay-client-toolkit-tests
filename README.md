@@ -16,6 +16,6 @@ Memory usage results with AMD RX 9070 XT:
 | Glow with Glutin | 18MB | 88MB |
 | Glow with Wayland-EGL | 18MB | 58MB |
 
-Note: WGPU example uses MemoryHints to reduce memory usage
-
 Running with ./runall.sh, maximizing the windows to a 4k monitor.
+
+Note: WGPU example uses MemoryHints to reduce memory usage
