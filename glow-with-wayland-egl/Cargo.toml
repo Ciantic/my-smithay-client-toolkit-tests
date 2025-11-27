@@ -1,0 +1,15 @@
+[package]
+name = "glow-with-wayland-egl"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+env_logger = "0.11.8"
+log = "0.4.28"
+smithay-client-toolkit = "0.20.0"
+wayland-client = "0.31.11"
+wayland-backend = { version = "0.3.11", features = ["client_system"] }
+
+glow = "0.16.0"
+khronos-egl = { version = "6.0.0", features = ["static"] }
+wayland-egl = "0.32.8"

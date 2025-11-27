@@ -1,0 +1,3 @@
+[workspace]
+resolver = "3"
+members = ["glow-with-glutin","glow-with-wayland-egl", "wgpu-27"]
